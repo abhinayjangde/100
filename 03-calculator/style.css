@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 100vh;
+    padding-top: 60px;
+}
+
+input {
+    padding: 2px 2px;
+}
+
+select {
+    padding: 2px 5px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
